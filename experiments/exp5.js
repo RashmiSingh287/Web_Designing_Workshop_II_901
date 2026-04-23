@@ -75,6 +75,3 @@ function countDepartment() {
         "<h3>Employees in " + deptName + ": " + count + "</h3>"; 
 
  
-
-
-
