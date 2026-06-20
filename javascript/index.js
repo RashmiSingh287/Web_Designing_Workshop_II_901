@@ -96,12 +96,35 @@ not !
 // if(age>=25){
 //     console.log("can vote");
 // }
-let mode="dark";
-let color;
-if(mode=="dark"){
-    color="black";
-}
-else{
-    color="white";
-}
-console.log(color);
+// let mode="dark";
+// let color;
+// if(mode=="dark"){
+//     color="black";
+// }
+// else{
+//     color="white";
+// }
+// console.log(color);
+
+
+// let a=2;
+// if(a%2==0){
+//     console.log("2 is even");
+// }
+// else{
+//     console.log("not even");
+// }
+
+/*********TERNARY OPERATOR  */
+/* a?b:c*/
+// let age =25;
+// age>18?console.log("adult" ):  console.log("not adult");
+ let num=prompt("hello enter your number");
+ alert("hehee");
+ 
+ if(num%5==0){
+    console.log("multiple of 5");
+ }
+ else{
+    console.log("not multiple");
+ }
