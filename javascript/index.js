@@ -44,3 +44,23 @@ const profile={
 console.log(profile);
 console.log(typeof profile["name"]);
 
+/*************lec 2 operators  */
+// single line comment 
+/*multi line 
+operator*/
+
+// arithmetic operator 
+ let a=5;
+ let b=4;
+ console.log("a+b=",a+b);
+  console.log("a-b=",a-b);
+   console.log("a*b=",a*b);
+  console.log("a/b=",a/b);
+ console.log("a%b=",a%b);
+  console.log("a**b=",a**b);
+//unary operator ,,increment++
+let c=5;
+let d=8;
+console.log("c=",c);
+
+console.log(++c);
