@@ -112,13 +112,12 @@
 
 // let str="apna clg  ";
 // let str2="rashmi";
-// //  let newstr=str.toUpperCase();
-// // console.log(str.trim());
-// console.log(str.slice(0,4));///return specific part of string
+// //  let newstr=str.toUpperCase(); original string mai koi change ni hota , new string mai change hoga
+// // console.log(str.trim()); // remove whitespaces in starting and ending
+// console.log(str.slice(0,4));///return specific part of string (start,end) ending index include nhi hote
 // console.log(str.concat(str2));//add 2 string
-// console.log(str.replace("a","r" ));// replace se 1 baar replace hoga
+// console.log(str.replace("a","r" ));// replace se 1 baar replace hoga(searchvalue,newwvalue)
 // console.log(str.charAt(2));
-
 
 /***************************************practice ques */
 let fullName=prompt("enter your full name");
